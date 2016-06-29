@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ucooling/maintainable-js/issues"
   },
-  "homepage": "https://github.com/ucooling/maintainable-js#readme"
+
+  "devDependencies": {
+
+  },
+
+  "dependencies" : {
+
+  }
 }
