@@ -1,0 +1,19 @@
+{
+  "name": "maintainable-js",
+  "version": "1.0.0",
+  "description": "this is a whole practise and use frontend skills build a application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucooling/maintainable-js.git"
+  },
+  "author": "Libin Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucooling/maintainable-js/issues"
+  },
+  "homepage": "https://github.com/ucooling/maintainable-js#readme"
+}
