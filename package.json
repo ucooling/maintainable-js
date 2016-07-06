@@ -15,12 +15,8 @@
   "bugs": {
     "url": "https://github.com/ucooling/maintainable-js/issues"
   },
-
   "devDependencies": {
-
+    "grunt-contrib-connect": "^1.0.2"
   },
-
-  "dependencies" : {
-
-  }
+  "dependencies": {}
 }

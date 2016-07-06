@@ -5,6 +5,9 @@
   <link rel="stylesheet" href="src/css/normalize.css" />
   <link rel="stylesheet" href="src/css/foundation.css" />
   <link rel="stylesheet" href="src/css/style.css" />
+  <script src="src/js/jquery.min.js"></script>
+  <script src="src/js/underscore.js"></script>
+  <script src="src/app.js"></script>
   <title>Location</title>
 </head>
 <body>
@@ -34,13 +37,7 @@
 
     <div id="searchResults" class="large-8 medium-8 columns">
       <h4>Search results</h4>
-      <div id="results">
-        <div class="panel large-12 columns">
-          <h5>Place of interesting</h5>
-          <h6>Description of the place</h6>
-          <a href="#" class="like button tiny right">Like</a>
-        </div>
-      </div>
+      <div id="results"></div>
     </div>
 
     <div id="likedPlaces"  class="large-4 medium-4 columns">
